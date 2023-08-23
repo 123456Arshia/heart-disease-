@@ -1,4 +1,4 @@
-# heart-disease-
+
 
 # Heart Disease Prediction
 
@@ -21,7 +21,7 @@ Heart disease is a significant global health concern, and early prediction can m
 
 1. Clone the Repository:
    ```sh
-   git clone https://github.com/123456Arshia/heart-disease-prediction.git
+   git clone https://github.com/123456Arshia/heart-disease-
    ```
 
 2. Navigate to the Project Directory:
